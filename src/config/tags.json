@@ -1,0 +1,588 @@
+[
+    {
+        "id": 1,
+        "label": "Social",
+        "tag":"",
+        "children": [
+            {
+                "id":101,
+                "label": "Art",
+                "tag":"#art",
+                "children":[]
+            },
+            {
+                "id":102,
+                "label": "Architecture",
+                "tag":"#architecture",
+                "children":[]
+            },
+            {
+                "id":103,
+                "label": "Fashion",
+                "tag":"#fashion",
+                "children":[]
+            },
+            {
+                "id":104,
+                "label": "Charity",
+                "tag":"#charity",
+                "children":[]
+            },
+            {
+                "id":105,
+                "label": "Beauty",
+                "tag":"#beauty",
+                "children":[]
+            },
+            {
+                "id":106,
+                "label": "Music",
+                "tag":"#music",
+                "children":[]
+            },
+            {
+                "id":107,
+                "label": "Comedy",
+                "tag":"#comedy",
+                "children":[]
+            },
+            {
+                "id":108,
+                "label": "Outdoor Sports",
+                "tag":"#outdoorsports",
+                "children":[]
+            },
+            {
+                "id":109,
+                "label": "Snow Sports",
+                "tag":"#snowsports",
+                "children":[]
+            },
+            {
+                "id":110,
+                "label": "Dance",
+                "tag":"#dance",
+                "children":[]
+            },
+            {
+                "id":111,
+                "label": "Home Improvement",
+                "tag":"#homeimprovement",
+                "children":[]
+            },
+            {
+                "id":112,
+                "label": "Brewing",
+                "tag":"#brewing",
+                "children":[]
+            },
+            {
+                "id":113,
+                "label": "Wine",
+                "tag":"#wine",
+                "children":[]
+            },
+            {
+                "id":114,
+                "label": "Textile Activities",
+                "tag":"#textileactivities",
+                "children":[]
+            },
+            {
+                "id":115,
+                "label": "Traveling",
+                "tag":"#traveling",
+                "children":[]
+            },
+            {
+                "id":116,
+                "label": "Concerts",
+                "tag":"#concerts",
+                "children":[]
+            },
+            {
+                "id":117,
+                "label": "Food and Cooking",
+                "tag":"#foodandcooking",
+                "children":[]
+            },
+            {
+                "id":118,
+                "label": "Board Games",
+                "tag":"#boardgames",
+                "children":[]
+            },
+            {
+                "id":119,
+                "label": "Fantasy Sports",
+                "tag":"#fantasysports",
+                "children":[]
+            },
+            {
+                "id":120,
+                "label": "Cocktails",
+                "tag":"#cocktails",
+                "children":[]
+            },
+            {
+                "id":121,
+                "label": "Writing",
+                "tag":"#writing",
+                "children":[]
+            },
+            {
+                "id":122,
+                "label": "Book Club",
+                "tag":"#bookclub",
+                "children":[]
+            },
+            {
+                "id":123,
+                "label": "Alternative Fitness",
+                "tag":"#alternativefitness",
+                "children":[]
+            },
+            {
+                "id":124,
+                "label": "Fitness",
+                "tag":"#fitness",
+                "children":[]
+            },
+            {
+                "id":125,
+                "label": "Blogging",
+                "tag":"#blogging",
+                "children":[]
+            },
+            {
+                "id":126,
+                "label": "Bird Watching",
+                "tag":"#birdwatching",
+                "children":[]
+            },
+            {
+                "id":127,
+                "label": "College Sports",
+                "tag":"#collegesports",
+                "children":[]
+            },
+            {
+                "id":128,
+                "label": "Pro Sports",
+                "tag":"#prosports",
+                "children":[]
+            },
+            {
+                "id":129,
+                "label": "Gardening",
+                "tag":"#gardening",
+                "children":[]
+            },
+            {
+                "id":130,
+                "label": "Collections",
+                "tag":"#collections",
+                "children":[]
+            },
+            {
+                "id":131,
+                "label": "Language",
+                "tag":"#language",
+                "children":[]
+            },
+            {
+                "id":132,
+                "label": "Astrology",
+                "tag":"#astrology",
+                "children":[]
+            },
+            {
+                "id":133,
+                "label": "Health and Wellness",
+                "tag":"#healthandwellness",
+                "children":[]
+            },
+            {
+                "id":134,
+                "label": "Spirituality",
+                "tag":"#spirituality",
+                "children":[]
+            },
+            {
+                "id":135,
+                "label": "Poker",
+                "tag":"#poker",
+                "children":[]
+            },
+            {
+                "id":136,
+                "label": "Floral Design",
+                "tag":"#floraldesign",
+                "children":[]
+            },
+            {
+                "id":137,
+                "label": "Beekeeping",
+                "tag":"#beekeeping",
+                "children":[]
+            },
+            {
+                "id":138,
+                "label": "Dining",
+                "tag":"#dining",
+                "children":[]
+            },
+            {
+                "id":139,
+                "label": "Entertaining",
+                "tag":"#entertaining",
+                "children":[]
+            },
+            {
+                "id":140,
+                "label": "Equestrian",
+                "tag":"#equestrian",
+                "children":[]
+            },
+            {
+                "id":141,
+                "label": "Barrista",
+                "tag":"#barrista",
+                "children":[]
+            },
+            {
+                "id":142,
+                "label": "News",
+                "tag":"#news",
+                "children":[]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "label": "Business",
+        "tag":"",
+        "children": [
+            {
+                "id":201,
+                "label": "Statistician",
+                "tag":"#statistician",
+                "children":[]
+            },
+            {
+                "id":202,
+                "label": "Tech",
+                "tag":"#tech",
+                "children":[]
+            },
+            {
+                "id":203,
+                "label": "Marketing",
+                "tag":"#marketing",
+                "children":[]
+            },
+            {
+                "id":204,
+                "label": "TV and Video",
+                "tag":"#tvandvideo",
+                "children":[]
+            },
+            {
+                "id":205,
+                "label": "Construction",
+                "tag":"#construction",
+                "children":[]
+            },
+            {
+                "id":206,
+                "label": "Natural Resources",
+                "tag":"#naturalresources",
+                "children":[]
+            },
+            {
+                "id":207,
+                "label": "Arts",
+                "tag":"#arts",
+                "children":[]
+            },
+            {
+                "id":208,
+                "label": "Human Services",
+                "tag":"#humanservices",
+                "children":[]
+            },
+            {
+                "id":209,
+                "label": "Medicine",
+                "tag":"#medicine",
+                "children":[]
+            },
+            {
+                "id":210,
+                "label": "Finance",
+                "tag":"#finance",
+                "children":[]
+            },
+            {
+                "id":211,
+                "label": "Publishing",
+                "tag":"#publishing",
+                "children":[]
+            },
+            {
+                "id":212,
+                "label": "Insurance",
+                "tag":"#insurance",
+                "children":[]
+            },
+            {
+                "id":213,
+                "label": "Commercial Real Estate",
+                "tag":"#commercialrealestate",
+                "children":[]
+            },
+            {
+                "id":214,
+                "label": "Residential Real Estate",
+                "tag":"#residentialrealestate",
+                "children":[]
+            },
+            {
+                "id":215,
+                "label": "Production",
+                "tag":"#production",
+                "children":[]
+            },
+            {
+                "id":216,
+                "label": "Energy",
+                "tag":"#energy",
+                "children":[]
+            },
+            {
+                "id":217,
+                "label": "Restaurants",
+                "tag":"#restaurants",
+                "children":[]
+            },
+            {
+                "id":218,
+                "label": "Education",
+                "tag":"#education",
+                "children":[]
+            },
+            {
+                "id":219,
+                "label": "Communications",
+                "tag":"#communications",
+                "children":[]
+            },
+            {
+                "id":220,
+                "label": "Consulting",
+                "tag":"#consulting",
+                "children":[]
+            },
+            {
+                "id":221,
+                "label": "IT Support",
+                "tag":"#itsupport",
+                "children":[]
+            },
+            {
+                "id":222,
+                "label": "Graphic Design",
+                "tag":"#graphicdesign",
+                "children":[]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "label": "Trades",
+        "tag":"",
+        "children": [
+            {
+                "id":301,
+                "label": "Electrician",
+                "tag":"#electrician",
+                "children":[]
+            },
+            {
+                "id":302,
+                "label": "Plumber",
+                "tag":"#plumber",
+                "children":[]
+            },
+            {
+                "id":303,
+                "label": "Welder",
+                "tag":"#welder",
+                "children":[]
+            },
+            {
+                "id":304,
+                "label": "Mechanic",
+                "tag":"#mechanic",
+                "children":[]
+            },
+            {
+                "id":305,
+                "label": "Boilermaker",
+                "tag":"#boilermaker",
+                "children":[]
+            },
+            {
+                "id":306,
+                "label": "Mason",
+                "tag":"#mason",
+                "children":[]
+            },
+            {
+                "id":307,
+                "label": "Pipefitter",
+                "tag":"#pipefitter",
+                "children":[]
+            },
+            {
+                "id":308,
+                "label": "Lineworker",
+                "tag":"#humanservices",
+                "children":[]
+            },
+            {
+                "id":309,
+                "label": "Millwright",
+                "tag":"#millwright",
+                "children":[]
+            },
+            {
+                "id":310,
+                "label": "Realtor",
+                "tag":"#realtor",
+                "children":[]
+            },
+            {
+                "id":311,
+                "label": "Aircraft Tech",
+                "tag":"#aircrafttech",
+                "children":[]
+            },
+            {
+                "id":312,
+                "label": "HVAC",
+                "tag":"#hvac",
+                "children":[]
+            },
+            {
+                "id":313,
+                "label": "Carpentry",
+                "tag":"#carpentry",
+                "children":[]
+            },
+            {
+                "id":314,
+                "label": "Engineer",
+                "tag":"#engineer",
+                "children":[]
+            },
+            {
+                "id":315,
+                "label": "Nuclear Medicine",
+                "tag":"#nuclearmedicine",
+                "children":[]
+            },
+            {
+                "id":316,
+                "label": "Dental Hygenist",
+                "tag":"#dentalhygenist",
+                "children":[]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "label": "Investing",
+        "tag":"",
+        "children": [
+            {
+                "id":401,
+                "label": "Stock",
+                "tag":"#stock",
+                "children":[]
+            },
+            {
+                "id":402,
+                "label": "Mutual Fund",
+                "tag":"#mutualfund",
+                "children":[]
+            },
+            {
+                "id":403,
+                "label": "Annuity",
+                "tag":"#annuity",
+                "children":[]
+            },
+            {
+                "id":404,
+                "label": "Index Funds",
+                "tag":"#indexfunds",
+                "children":[]
+            },
+            {
+                "id":405,
+                "label": "Crypto",
+                "tag":"#Crypto",
+                "children":[]
+            },
+            {
+                "id":406,
+                "label": "Money Market Fund",
+                "tag":"#moneymarketfund",
+                "children":[]
+            },
+            {
+                "id":407,
+                "label": "Government Bond",
+                "tag":"#governmentbond",
+                "children":[]
+            },
+            {
+                "id":408,
+                "label": "Exchange Traded Fund",
+                "tag":"#exchangetradedfund",
+                "children":[]
+            },
+            {
+                "id":409,
+                "label": "Real Estate",
+                "tag":"#reatestateinvest",
+                "children":[]
+            },
+            {
+                "id":410,
+                "label": "Investment Fund",
+                "tag":"#investmentfund",
+                "children":[]
+            },
+            {
+                "id":411,
+                "label": "Municipal Bond",
+                "tag":"#municipal bond",
+                "children":[]
+            },
+            {
+                "id":412,
+                "label": "Crowd Funding",
+                "tag":"#crowdfunding",
+                "children":[]
+            },
+            {
+                "id":413,
+                "label": "NFT",
+                "tag":"#nft",
+                "children":[]
+            }
+        ]
+    }
+]
